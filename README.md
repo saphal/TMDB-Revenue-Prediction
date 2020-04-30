@@ -1,6 +1,6 @@
 
 # DATA ANALYST PROJECT.
-## WE RATE DOG
+
 
 
 ### Table of Contents
