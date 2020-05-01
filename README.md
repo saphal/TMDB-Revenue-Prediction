@@ -58,6 +58,6 @@ Must give credit to kaggle for providing with data set. I would also like to tha
 
 ### Author
 Saphal Adhikari
-
+Medium post :https://medium.com/@franticarsenal/how-to-use-machine-learning-approach-to-predict-movie-box-office-revenue-success-e2e688669972?sk=4236202d116bde563c3e75f254c75cca
 
 
